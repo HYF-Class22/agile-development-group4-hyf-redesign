@@ -1,30 +1,39 @@
 # Backlog
+# Backlog for Sarah, Corporate Sponsorship Manager
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Must Have:
 
-## Must-Haves
+### Research and Due Diligence
+- [ ] Research educational charities supporting refugees and life-changers.
+- [ ] Identify reputable organizations with transparent operations.
 
-> these are necessary for basic usability
+### Engagement and Partnership Development
+- [ ] Initiate discussions with potential charity partners.
+- [ ] Schedule meetings to understand program impact and funding needs.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+### Proposal Evaluation and Decision Making
+- [ ] Review funding proposals and assess alignment with company values.
+- [ ] Analyze financial reports and program budgets for sustainability.
 
-## Should-Haves
+### Monitoring and Evaluation
+- [ ] Establish monitoring mechanisms for sponsored programs.
+- [ ] Define key performance indicators (KPIs) for tracking impact.
 
-> these will complete the user experience, but are not necessary
+### Communication and Reporting
+- [ ] Develop a strategy for sharing program updates with stakeholders.
+- [ ] Create reports to demonstrate the impact of sponsorship investments.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+## Should Have:
 
-## Could-Haves
+### Research and Due Diligence
+- [ npm] Gather feedback and recommendations from industry peers.
+- [ ] Explore partnerships with educational charities endorsed by reputable organizations.
 
-> would be really cool ... if there's time
+### Engagement and Partnership Development
+- [ ] Explore opportunities for joint initiatives or co-branded programs with charity partners.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+## Could Have:
+
+### Engagement and Partnership Development
+- [ ] Host informational sessions or webinars to engage potential charity partners.
+- [ ] Explore innovative funding models, such as challenge grants or matching campaigns.
