@@ -5,6 +5,11 @@
 - [ ] As a user, I want to see **title of the page**, this tell that I can
       understand general contents of name top of the left side in this page.
 
+- [ ] As a user, I want **quickly identify myself** on the website, This can
+      give me access to a fast track to view information that aligns with my
+      priorities to easily access relevant information from my perspective,
+      ensuring a clear and personalized browsing experience.
+
 - [ ] As a user, I want to have a clear and **accessible navigation system**,
       This ensures that I can easily move between different sections and
       content.
