@@ -1,4 +1,4 @@
-## Sarah Johnson, Corporate Sponsorship Manager
+# Sarah Johnson, Corporate Sponsorship Manager
 
 - **Bio**: Sarah is a 40-year-old corporate sponsorship manager for a large
   financial institution. She oversees the company's philanthropic initiatives

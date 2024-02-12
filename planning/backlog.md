@@ -1,8 +1,8 @@
 # Backlog
 
-# Backlog for Sarah, Corporate Sponsorship Manager
+## Backlog for Sarah, Corporate Sponsorship Manager
 
-## Must Have:
+## Must Have
 
 ### Research and Due Diligence
 
@@ -29,7 +29,7 @@
 - [ ] Develop a strategy for sharing program updates with stakeholders.
 - [ ] Create reports to demonstrate the impact of sponsorship investments.
 
-## Should Have:
+## Should Have
 
 ### Research and Due Diligence
 
@@ -42,7 +42,7 @@
 - [ ] Explore opportunities for joint initiatives or co-branded programs with
       charity partners.
 
-## Could Have:
+## Could Have
 
 ### Engagement and Partnership Development
 
