@@ -11,13 +11,13 @@
 
 ## Communication Schedule
 
-| Day   |  How   | The topic of discussion|
-| ----- | :----: | -----------------------|
-| 12/02 | online |                        |
-| 12/02 | online |                        |
-| 12/02 | online |                        |           
-| 12/02 | online |                        |
-| 12/02 | online |                        |
+| Day   |  How   | The topic of discussion |
+| ----- | :----: | ----------------------- |
+| 12/02 | online |                         |
+| 12/02 | online |                         |
+| 12/02 | online |                         |
+| 12/02 | online |                         |
+| 12/02 | online |                         |
 
 ## Communication Channels
 
