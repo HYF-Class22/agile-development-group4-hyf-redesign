@@ -26,10 +26,10 @@
   university in Belgium. She is originally Korean.
 
 - **Needs:Goals**: Neal came to university to study business administration, but
-  over time he realized that he did not like his department and wanted to change
-  his department. As a result of his research, he decided to join a software
-  program. As far as he heard from his friend, HYF is perfect for him. Programs
-  attract a lot of attention.
+  over time she realized that she did not like her department and wanted to
+  change her department. As a result of her research, she decided to join a
+  software program. As far as she heard from her friend, HYF is perfect for her.
+  Programs attract a lot of attention.
 
 - **Frustrations**: She evaluates his self-improvement options by choosing a
   program that will be beneficial.
