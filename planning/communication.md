@@ -23,7 +23,7 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**: creating issue before starting in any part and linked with the
+- **Issues**: creating issue before starting in any part and linked with the 
   **Pull Requests**
 - **GitHub Discussions**: for Questions related to Github.
 - **Slack**: meeting links and summary- questions related to VSC- Ideas -
