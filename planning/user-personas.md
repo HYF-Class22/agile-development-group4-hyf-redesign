@@ -17,3 +17,23 @@
   out the team smoothly and schedule a meeting for a swift collaboration.
 
 ---
+
+## a student
+
+[Neal Cassie](https://www.semrush.com/persona/edit/25d5c964-0c95-4009-9274-507648cf507e/)
+
+- **Bio**: Neal is 21 years old. She learns language as same time studies
+  university in Belgium. She is originally Korean.
+
+- **Needs:Goals**: Neal came to university to study business administration, but
+  over time she realized that she did not like her department and wanted to
+  change her department. As a result of her research, she decided to join a
+  software program. As far as she heard from her friend, HYF is perfect for her.
+  Programs attract a lot of attention.
+
+- **Frustrations**: She evaluates his self-improvement options by choosing a
+  program that will be beneficial.
+
+- **Scenario**:She applies for full stack developer training, which she finds
+  suitable, and interviews with the coaches, and when she is accepted, she
+  starts training.
