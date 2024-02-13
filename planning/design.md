@@ -1,17 +1,19 @@
 # Design
 
-## Project's design overview
+## Re-design HYF site
 
-> Give an overview of your project's design
+### Project's design overview
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> ✔️Our main design idea to provide users with a fast track to understand HYF
+> from their perspective. ✔️To do a makeover with a clean code, organized design
+> that highlights HYF's advanced coding skills.
 
 ---
 
-## Wireframe(s)
+## Design overview
 
-> Include your wireframe(s) and link to wireframe
+Here is
+the[last update idea](https://excalidraw.com/#room=188ac4553e8768ef6387,DbgpJ2oLdf_UN3PlRxoGqg)
+and in the below sketch is our initial idea ⬇️
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![design-sketch](Untitled-2024-02-13-2054.png)
