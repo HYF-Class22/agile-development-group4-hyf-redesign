@@ -20,6 +20,8 @@
 
 ## a student
 
+[Neal Cassie](https://www.semrush.com/persona/edit/25d5c964-0c95-4009-9274-507648cf507e/)
+
 - **Bio**: Neal is 21 years old. She learns language as same time studies
   university in Belgium. She is originally Korean.
 
@@ -34,4 +36,4 @@
 
 - **Scenario**:She applies for full stack developer training, which she finds
   suitable, and interviews with the coaches, and when she is accepted, she
-  starts. e training.
+  starts training.
