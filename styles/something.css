@@ -15,4 +15,9 @@ body {
 .body-img {
   width: 90%;
   height: 90%;
+  transition: transform 0.3s ease;
+}
+
+.body-img:hover:hover {
+  transform: scale(1.1);
 }
