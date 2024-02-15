@@ -11,4 +11,4 @@ Sarah Johnson, Corporate Sponsorship Manager
 - **Frustrations**: Difficulty finding organizations with clear metrics and
   outcomes makes it challenging to report on the effectiveness of corporate
   sponsorships. Limited visibility into the day-to-day operations of charities
-  hinders decision-making
+  hinders decision-making;
