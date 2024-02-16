@@ -36,4 +36,4 @@
 
 - **Scenario**:She applies for full stack developer training, which she finds
   suitable, and interviews with the coaches, and when she is accepted, she
-  starts training.
+  starts training
