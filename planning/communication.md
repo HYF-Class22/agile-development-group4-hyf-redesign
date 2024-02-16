@@ -1,4 +1,4 @@
-# Communication
+ # Communication
 
 ## Group Rules
 
