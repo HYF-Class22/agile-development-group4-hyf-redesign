@@ -1,9 +1,10 @@
 # Backlog
 
-## Must-Haves
+## Backlog for Sarah, Corporate Sponsorship Manager
 
-- [ ] As a user, I want to see **title of the page**, this tell that I can
-      understand general contents of name top of the left side in this page.
+## Must Have
+
+### Research and Due Diligence
 
 - [ ] As a user, I want **quickly identify myself** on the website, This can
       give me access to a fast track to view information that aligns with my
@@ -14,38 +15,47 @@
       This ensures that I can easily move between different sections and
       content.
 
-- [ ] As a user, I want to a **clear introduction**, this provide a clear
-      overview of the topics or information the webpage will cover.
+- [ ] Research educational charities supporting refugees and life-changers.
+- [ ] Identify reputable organizations with transparent operations.
 
-- [ ] As a user, I want to a **evident navigation bar**, this includes certain
-      type names about topics.
+### Engagement and Partnership Development
 
-- [ ] As a user, I want to **easy a sign up**, registering to this system allows
-      me to receive new programs and news by e-mail.
+- [ ] Initiate discussions with potential charity partners.
+- [ ] Schedule meetings to understand program impact and funding needs.
 
-## Should-Haves
+### Proposal Evaluation and Decision Making
 
-- [ ] As a user, I would like to see a **moving variety of photos**, not just
-      textual content. Visuals making the content more engaging and easier to
-      understand.
+- [ ] Review funding proposals and assess alignment with company values.
+- [ ] Analyze financial reports and program budgets for sustainability.
 
-- [ ] As a user, I would like to find easily accessible **contact us**, Let me
-      send a message to the relevant person whenever I want and receive a
-      response via e-mail.
+### Monitoring and Evaluation
 
-- [ ] As a user, I would like to reach **the place on map**.This is marked in a
-      way that I can see its location and it is in the lower right corner.
+- [ ] Establish monitoring mechanisms for sponsored programs.
+- [ ] Define key performance indicators (KPIs) for tracking impact.
 
-- [ ] As a user, I want **an outstanding visual design** and user interface to
-      make the experience more intuitive.
+### Communication and Reporting
 
-## Could-Haves
+- [ ] Develop a strategy for sharing program updates with stakeholders.
+- [ ] Create reports to demonstrate the impact of sponsorship investments.
 
-- [ ] As a user, I would love to find **Fun & entertaining game**.This would add
-      an element of an enjoyable experience.
+## Should Have
 
-- [ ] As a user, I would like to see **about support information three parts**,
-      I can know the earning rates and why you should volunteer.
+### Research and Due Diligence
 
-- [ ] As a user, I would like to perceive **partner companies names**, so I can
-      know who support you.
+- [ npm] Gather feedback and recommendations from industry peers.
+- [ ] Explore partnerships with educational charities endorsed by reputable
+      organizations.
+
+### Engagement and Partnership Development
+
+- [ ] Explore opportunities for joint initiatives or co-branded programs with
+      charity partners.
+
+## Could Have
+
+### Engagement and Partnership Development
+
+- [ ] Host informational sessions or webinars to engage potential charity
+      partners.
+- [ ] Explore innovative funding models, such as challenge grants or matching
+      campaigns,
