@@ -1,55 +1,84 @@
 # Project Name
 
-<!-- describe your project -->
-
----
+- agile-development-group4-hyf-redesign
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- Create repository "agile-development-group4-hyf-redesign"
+- Add group members
+- update settings
+- `Main` pulled every time
 
----
+## User Story
 
-<!-- copy this section once for each must-have user story -->
+## Title and Logo
 
-## user story
+As a user, I would like to see name and logo who understands the general
+purpose-of-page.
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### Html
 
-> "as a ... i can ... so that ..."
+- add container
+- add navbar
+- image for img
+- links for `a href`
+- program for add `dropdown`
 
-<!-- write any extra notes or description -->
+### Css
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- add width
+- add height
+- add links to tabs
+- text align `right` for navbar
 
-### Logic: user story
+## Student / Coaches / Supporters
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+As a user, I would like to be informed about the main topics covered on the
+site.
 
-### Interface: user story
+### Html
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add images
+- add links in click images
+- h2 for information
 
-### Interaction: user story
+### Css
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- make display `grid`
+- padding is set
+- add hover
+- h2 settings
 
-### Documentation: user story
+## Sign Up
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+As a user, I would like to register to the site easily.
+
+### Html
+
+- label
+- input
+- add button
+
+### Css
+
+- container sign up view
+- set for text
+- button background-color
+- make `cancel` button and `sign up` button
+- add buttons color
+
+## Footer
+
+As a user, I would like to see your communication channels and location
+
+### Html
+
+- add social media links
+- address text
+- location on the map
+- use `iframe` for map
+
+### Css
+
+- add grid template
+- set footer background color
