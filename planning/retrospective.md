@@ -4,11 +4,13 @@
 
 - Don't delay tasks.
 - Avoid repeatedly asking the same questions.
+- Do not postpone resolving errors.
 
 ## Continue Doing
 
 - Share ideas.
 - asking questions and help when needed.
+- Focus on the project in a programmatic way.
 
 ## Start Doing
 
@@ -19,10 +21,11 @@
 
 - To be a valuable team member, it's essential to manage your studies
   independently and ensure your progress to contribute effectively in your team.
-
----
+- Create more beautiful looks by spending a lot of time and experimenting.
 
 ## Strategy vs. Board
+
+- Teamwork was determined by dividing the tasks.
 
 ### What parts of your plan went as expected?
 
